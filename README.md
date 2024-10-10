@@ -1,17 +1,23 @@
-## Hi there 👋
+<div align="center">
+  <H1>
+    Hello Haemulramen! 🍜
+  </H1>
+  
+  <H3>
+    My Place...
+  </H3>
+  <a href="https://velog.io/@kimm09/posts">
+    <img src="https://img.shields.io/badge/VELOG-20C997?style=for-the-badge&logo=VELOG&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/kimm_09">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 
-<!--
-**Haemulramen/Haemulramen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br>
+  <H3>
+    My Stats...
+  </H3>
+  <img src="https://github-readme-stats.vercel.app/api?username=Haemulramen&show_icons=true&theme=radical"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimm09">
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haemulramen&show_icons=true&theme=radical)
